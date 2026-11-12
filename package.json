@@ -1,0 +1,9 @@
+{
+  "name": "ssrf-pin-local-lab",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.18.0"
+  }
+}
